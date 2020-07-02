@@ -6,7 +6,7 @@ model and neural network fits to JLab's deeply virtual Compton scattering data.
 
 This is the code for the analysis done for the paper
 
-   * Čuić, M., Kumerički, K., and Schäfer A.,  _Separation of Quark Flavors using DVCS Data_, to be finished soon
+   * Čuić, M., Kumerički, K., and Schäfer A.,  _Separation of Quark Flavors using DVCS Data_, arXiv:[2007.00029](https://arxiv.org/abs/2007.00029)
 
 Jupyter/Python notebook ``jlab20-fits.ipynb``  above shows in detail how numerical results
 and plots are obtained and provides some plots additional to what is in the paper.
